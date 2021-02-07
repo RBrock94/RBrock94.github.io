@@ -16,7 +16,7 @@ Education
 	* Sociogenetics of the Tree Bumblebee (*Bombus hypnorum*)
 	* Supervisors: Professor Andrew Bourke, Dr Martin Taylor & Professor Tracey Chapman
 
-* 2015 - 2018: MSc (by research) Biological Sciences, Univeristy of Bristol
+* 2015 - 2018: MSc (by research) Biological Sciences, University of Bristol
 	* Ecology, evolution and importance of wasps
 	* Supervisors: Professor Seirian Sumner & Professor Davide Pisani
 
@@ -27,6 +27,16 @@ Employment
 ======
 * 2020 - Present: Research technician, Gage lab, University of East Anglia
 	* Heatwave impacts on insect reproduction
+
+
+Publications
+======
+* Brock, R.E., Crowther, L.P., Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M. I. & Bourke, A.F.G. (2021) No severe genetic bottleneck in a rapidly range-expanding bumblebee. *Proceedings of the Royal Society B*, Accepted/In press.
+
+Outreach
+======
+
+
 
   
 Skills
