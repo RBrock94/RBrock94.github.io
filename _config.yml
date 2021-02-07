@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryan Brock"
-  avatar           : "myphoto.jpg"
+  avatar           : "files/myphoto.jpg"
   bio              : "PhD student | Research technician"
   location         : "UEA, Norwich"
   employer         :
