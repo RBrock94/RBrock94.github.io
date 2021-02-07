@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* 2017 - Present: PhD Biological Sciences, University of East Anglia
+	* Sociogenetics of the Tree Bumblebee (*Bombus hypnorum*)
+	* Supervisors: Professor Andrew Bourke, Dr Martin Taylor & Professor Tracey Chapman
+
+* 2015 - 2018: MSc (by research) Biological Sciences, Univeristy of Bristol
+	* Ecology, evolution and importance of wasps
+	* Supervisors: Professor Seirian Sumner & Professor Davide Pisani
+
+* 2012 - 2015: BSc Biological Sciences, University of East Anglia
+
+
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Present: Research technician, Gage lab, University of East Anglia
+	* Heatwave impacts on insect reproduction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
