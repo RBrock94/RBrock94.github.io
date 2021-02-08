@@ -7,10 +7,10 @@ main:
     url: /publications/
 
   - title: "Outreach"
-    url: /outreach/    
+    url: /outreach/
+
+  - title: "Bumblebee illustrations"
+    url: /bumblebee-illustrations/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
