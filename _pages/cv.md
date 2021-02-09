@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+**Education**
 
 * 2017 - Present: PhD Biological Sciences, University of East Anglia
 	* Sociogenetics of the Tree Bumblebee (*Bombus hypnorum*)
@@ -23,49 +22,12 @@ Education
 * 2012 - 2015: BSc Biological Sciences, University of East Anglia
 
 
-Employment
-======
+**Employment**
+
 * 2020 - Present: Research technician, Gage lab, University of East Anglia
 	* Heatwave impacts on insect reproduction
 
 
-Publications
-======
+**Publications**
+
 * Brock, R.E., Crowther, L.P., Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M. I. & Bourke, A.F.G. (2021) No severe genetic bottleneck in a rapidly range-expanding bumblebee. *Proceedings of the Royal Society B*, Accepted/In press.
-
-Outreach
-======
-
-
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
