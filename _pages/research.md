@@ -5,4 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-research info goes here
+**Population genetics of a range-expanding bumblebee**
+
+
+**Conflict resolution in bumblebee societies**
