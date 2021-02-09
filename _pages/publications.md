@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Preprints**
 
-{% include base_path %}
+* Wyatt, C.D.R., Bentley, M., Taylor, D., **Brock, R.E.**, Taylor, B.A., Bell, E., Leadbeater, E. & Sumner, S. [Genetic toolkit for sociality predicts castes across the spectrum of social complexity in wasps](https://www.biorxiv.org/content/10.1101/2020.12.08.407056v2). *bioRxiv*.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**2021**
+
+* **Brock, R.E.**, Crowther, L.P., Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M.I. & Bourke, A.F.G. (2021) [No severe genetic bottleneck in a rapidly range-expanding bumblebee](link goes here). *Proceedings of the Royal Society B*.
+
