@@ -30,4 +30,4 @@ redirect_from:
 
 **Publications**
 
-* Brock, R.E., Crowther, L.P., Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M. I. & Bourke, A.F.G. (2021) No severe genetic bottleneck in a rapidly range-expanding bumblebee. *Proceedings of the Royal Society B*, Accepted/In press.
+* Brock, R.E., Crowther, L.P., Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M. I. & Bourke, A.F.G. (2021) [No severe genetic bottleneck in a rapidly range-expanding bumblebee](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2639). *Proceedings of the Royal Society B*.
