@@ -7,6 +7,6 @@ author_profile: true
 
 **Population genetics of a range-expanding bumblebee**
 
-<img src="https://github.com/RBrock94/RBrock94.github.io/blob/master/images/range-expansion.gif" width="40" height="40" />
+<img src='images/range-expansion.gif" width="40" height="40" />
 
 **Conflict resolution in bumblebee societies**
