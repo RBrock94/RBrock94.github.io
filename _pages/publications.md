@@ -7,7 +7,7 @@ author_profile: true
 
 **2021**
 
-* **Brock, R.E.**, Cini, A. & Sumner, S. (2021) [Ecosystem services provided by aculeate wasps](https://onlinelibrary.wiley.com/doi/10.1111/brv.12719). *Biological Reviews*, BRV12719. 
+* **Brock, R.E.**, Cini, A. & Sumner, S. (2021) [Ecosystem services provided by aculeate wasps](https://onlinelibrary.wiley.com/doi/10.1111/brv.12719). *Biological Reviews*. 
 <span class="__dimensions_badge_embed__" data-doi="10.1111/brv.12719" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/brv.12719" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 * **Brock, R.E.**†, Crowther, L.P.†, Wright, D.J., Carvell, C., Richardson, D.S., Taylor, M.I. & Bourke, A.F.G. (2021) [No severe genetic bottleneck in a rapidly range-expanding bumblebee pollinator](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.2639). *Proceedings of the Royal Society B: Biological Sciences*. †Equal contribution.
