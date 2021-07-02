@@ -11,11 +11,11 @@ redirect_from:
 
 **Education**
 
-* 2017 - Present: PhD Biological Sciences, University of East Anglia
-	* Sociogenetics of the Tree Bumblebee (*Bombus hypnorum*)
+* 2017 - 2021: PhD Biological Sciences, University of East Anglia
+	* Sociogenetics and behavioural ecology of the Tree Bumblebee (*Bombus hypnorum*)
 	* Supervisors: Professor Andrew Bourke, Dr Martin Taylor & Professor Tracey Chapman
 
-* 2015 - 2018: MSc (by research) Biological Sciences, University of Bristol
+* 2015 - 2017: MSc (by research) Biological Sciences, University of Bristol
 	* Ecology, evolution and importance of wasps
 	* Supervisors: Professor Seirian Sumner & Professor Davide Pisani
 
